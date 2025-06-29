@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/imag">
+        <file>eye.png</file>
+        <file>eye1.jpg</file>
+        <file>password.png</file>
+        <file>person.png</file>
+        <file>description.png</file>
+        <file>label.png</file>
+        <file>title.png</file>
+        <file>date.png</file>
+        <file>model.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>showfile.png</file>
+        <file>background.png</file>
+        <file>login.png</file>
+        <file>seefile.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>achievement.png</file>
+        <file>mainwindow.png</file>
+    </qresource>
+</RCC>
